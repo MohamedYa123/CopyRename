@@ -1,0 +1,20 @@
+G:\projects\Upwork projs\Automated Phone Copying,charging,renaming\Automated Phone Copying,charging,renaming\bin\Release\net6.0-windows\Automated Phone Copying,charging,renaming.exe
+G:\projects\Upwork projs\Automated Phone Copying,charging,renaming\Automated Phone Copying,charging,renaming\bin\Release\net6.0-windows\Automated Phone Copying,charging,renaming.deps.json
+G:\projects\Upwork projs\Automated Phone Copying,charging,renaming\Automated Phone Copying,charging,renaming\bin\Release\net6.0-windows\Automated Phone Copying,charging,renaming.runtimeconfig.json
+G:\projects\Upwork projs\Automated Phone Copying,charging,renaming\Automated Phone Copying,charging,renaming\bin\Release\net6.0-windows\Automated Phone Copying,charging,renaming.dll
+G:\projects\Upwork projs\Automated Phone Copying,charging,renaming\Automated Phone Copying,charging,renaming\bin\Release\net6.0-windows\Automated Phone Copying,charging,renaming.pdb
+G:\projects\Upwork projs\Automated Phone Copying,charging,renaming\Automated Phone Copying,charging,renaming\obj\Release\net6.0-windows\Automated Phone Copying,charging,renaming.csproj.AssemblyReference.cache
+G:\projects\Upwork projs\Automated Phone Copying,charging,renaming\Automated Phone Copying,charging,renaming\obj\Release\net6.0-windows\Automated_Phone_Copying_charging_renaming.Form1.resources
+G:\projects\Upwork projs\Automated Phone Copying,charging,renaming\Automated Phone Copying,charging,renaming\obj\Release\net6.0-windows\Automated Phone Copying,charging,renaming.csproj.GenerateResource.cache
+G:\projects\Upwork projs\Automated Phone Copying,charging,renaming\Automated Phone Copying,charging,renaming\obj\Release\net6.0-windows\Automated Phone Copying,charging,renaming.GeneratedMSBuildEditorConfig.editorconfig
+G:\projects\Upwork projs\Automated Phone Copying,charging,renaming\Automated Phone Copying,charging,renaming\obj\Release\net6.0-windows\Automated Phone Copying,charging,renaming.AssemblyInfoInputs.cache
+G:\projects\Upwork projs\Automated Phone Copying,charging,renaming\Automated Phone Copying,charging,renaming\obj\Release\net6.0-windows\Automated Phone Copying,charging,renaming.AssemblyInfo.cs
+G:\projects\Upwork projs\Automated Phone Copying,charging,renaming\Automated Phone Copying,charging,renaming\obj\Release\net6.0-windows\Automated Phone Copying,charging,renaming.csproj.CoreCompileInputs.cache
+G:\projects\Upwork projs\Automated Phone Copying,charging,renaming\Automated Phone Copying,charging,renaming\obj\Release\net6.0-windows\Automated Phone Copying,charging,renaming.dll
+G:\projects\Upwork projs\Automated Phone Copying,charging,renaming\Automated Phone Copying,charging,renaming\obj\Release\net6.0-windows\refint\Automated Phone Copying,charging,renaming.dll
+G:\projects\Upwork projs\Automated Phone Copying,charging,renaming\Automated Phone Copying,charging,renaming\obj\Release\net6.0-windows\Automated Phone Copying,charging,renaming.pdb
+G:\projects\Upwork projs\Automated Phone Copying,charging,renaming\Automated Phone Copying,charging,renaming\obj\Release\net6.0-windows\Automated Phone Copying,charging,renaming.genruntimeconfig.cache
+G:\projects\Upwork projs\Automated Phone Copying,charging,renaming\Automated Phone Copying,charging,renaming\obj\Release\net6.0-windows\ref\Automated Phone Copying,charging,renaming.dll
+G:\projects\Upwork projs\Automated Phone Copying,charging,renaming\Automated Phone Copying,charging,renaming\obj\Release\net6.0-windows\Interop.ShellExtensionLib.dll
+G:\projects\Upwork projs\Automated Phone Copying,charging,renaming\Automated Phone Copying,charging,renaming\obj\Release\net6.0-windows\Interop.Shell32.dll
+G:\projects\Upwork projs\Automated Phone Copying,charging,renaming\Automated Phone Copying,charging,renaming\obj\Release\net6.0-windows\Automated Phone Copying,charging,renaming.csproj.ResolveComReference.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Automated Phone Copying,charging,renaming/1.0.0": {
+        "runtime": {
+          "Automated Phone Copying,charging,renaming.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Automated Phone Copying,charging,renaming/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

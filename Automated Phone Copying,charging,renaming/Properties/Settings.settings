@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Automated_Phone_Copying_charging_renaming.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DirectoriesinDF1formula" Type="System.String" Scope="User">
+      <Value Profile="(Default)">^yyMMdd^</Value>
+    </Setting>
+    <Setting Name="DF1Filesformula" Type="System.String" Scope="User">
+      <Value Profile="(Default)">%NAME%.%EXTENSION%</Value>
+    </Setting>
+    <Setting Name="DF2Filesformula" Type="System.String" Scope="User">
+      <Value Profile="(Default)">%T1%?T1?'_'%AN%?AN?'_'%L1%?L1?'_'%CN%_^yyMMdd^_%NAME%.%EXTENSION%</Value>
+    </Setting>
+    <Setting Name="DirectoriesinDF2formula" Type="System.String" Scope="User">
+      <Value Profile="(Default)">^yyMMdd^</Value>
+    </Setting>
+    <Setting Name="fromdate" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2000-09-30</Value>
+    </Setting>
+    <Setting Name="todate" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2023-11-13</Value>
+    </Setting>
+    <Setting Name="Copytodf1" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Copytodf2" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="selectfilesbycreationdate" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
